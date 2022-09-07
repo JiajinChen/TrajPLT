@@ -1,5 +1,5 @@
 # Association of longitudinal platelet count trajectory with ICU mortality: A multi-cohort study
-Jiajin Chen, Sipeng Shen, Yi Li, Juanjuan Fan, et al.
+Jiajin Chen, Xi Gao, Sipeng Shen, et al.
 
 ___
 # If the code is helpful to your work, please cite:
